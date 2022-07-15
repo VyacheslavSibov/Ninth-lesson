@@ -1,7 +1,7 @@
 package ua.ithillel.car;
 
 import java.util.Arrays;
-
+//ctrl + alt + L
 public class Main {
     public static void main(String[] args) {
         Wheel[] Wheels = new Wheel[5];
@@ -33,4 +33,3 @@ public class Main {
         }
     }
 }
-
