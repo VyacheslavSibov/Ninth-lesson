@@ -1,4 +1,5 @@
 package ua.ithillel.calculator;
+//ctrl + alt + L
 
 public class Calculator {
         public static int add(int a, int b) {
