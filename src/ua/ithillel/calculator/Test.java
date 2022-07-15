@@ -1,4 +1,5 @@
 package ua.ithillel.calculator;
+//ctrl + alt + L
 
 public class Test {
     public static void main(String[] args) {
