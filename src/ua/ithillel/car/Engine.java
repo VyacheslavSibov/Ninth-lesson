@@ -1,5 +1,6 @@
 package ua.ithillel.car;
 
+//ctrl + alt + L
 public class Engine {
     private int power;
     private int fuelConsumption;
@@ -18,4 +19,3 @@ public class Engine {
         return fuelConsumption;
     }
 }
-
