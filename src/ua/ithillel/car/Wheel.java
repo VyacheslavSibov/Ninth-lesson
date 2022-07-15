@@ -1,4 +1,5 @@
 package ua.ithillel.car;
+//ctrl + alt + L
 
 public class Wheel {
     private int size;
@@ -10,4 +11,3 @@ public class Wheel {
         return size;
     }
 }
-
